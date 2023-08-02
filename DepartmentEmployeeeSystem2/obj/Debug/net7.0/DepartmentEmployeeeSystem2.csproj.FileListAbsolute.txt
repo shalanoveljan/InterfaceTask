@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\DepartmentEmployeeeSystem2.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\DepartmentEmployeeeSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\DepartmentEmployeeeSystem2.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\DepartmentEmployeeeSystem2.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\DepartmentEmployeeeSystem2.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\bin\Debug\net7.0\DepartmentEmployeeeSystem2.exe
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\bin\Debug\net7.0\DepartmentEmployeeeSystem2.deps.json
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\bin\Debug\net7.0\DepartmentEmployeeeSystem2.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\bin\Debug\net7.0\DepartmentEmployeeeSystem2.dll
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\bin\Debug\net7.0\DepartmentEmployeeeSystem2.pdb
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\DepartmentEmployeeeSystem2.dll
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\refint\DepartmentEmployeeeSystem2.dll
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\DepartmentEmployeeeSystem2.pdb
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\DepartmentEmployeeeSystem2.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\DepartmentEmployeeeSystem2\obj\Debug\net7.0\ref\DepartmentEmployeeeSystem2.dll
